@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=EUNYU'S%20GITHUB!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=EUNYU'S%20GITHUB!&fontAlign=50&fontAlignY=70&fontSize=75&fontColor=ffffff)
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
