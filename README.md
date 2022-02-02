@@ -39,7 +39,8 @@
 
 <div align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsdb6934)](https://solved.ac/dmsdb6934/)
-</
+</div>
+
 <!--
 **EUNYUGNYU/EUNYUGNYU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
