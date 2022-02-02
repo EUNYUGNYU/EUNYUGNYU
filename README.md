@@ -8,12 +8,14 @@
 
 </div>
 
+<h3 align="center"> 💍 BJ Tier 💍</h3>
 <div align="center">
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsdb6934)](https://solved.ac/dmsdb6934/)
 
 </div>
 
+<br>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
