@@ -5,8 +5,7 @@
 <div align="center">
 
 [![Eunyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=EUNYUGNYU&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=radical)](https://github.com/EUNYUGNYU/github-readme-stats)
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsdb6934)](https://solved.ac/dmsdb6934/)
+
 </div>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
@@ -38,6 +37,9 @@
   <a href="mailto:dmsdb6934@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dmsdb6934@gmail.com"/></a>
 </p>
 
+<div align="center">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsdb6934)](https://solved.ac/dmsdb6934/)
+</
 <!--
 **EUNYUGNYU/EUNYUGNYU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
