@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=EUNYU'S%20GITHUB!&fontAlign=50&fontAlignY=70&fontSize=75&fontColor=ffffff)
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+
 <div align="center">
 
-[![Eunyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=EUNYUGNYU&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/EUNYUGNYU/github-readme-stats)
+[![Eunyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=EUNYUGNYU&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=radical)](https://github.com/EUNYUGNYU/github-readme-stats)
 </div>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
@@ -24,6 +25,11 @@
   <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=QGIS&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a> &nbsp  
 </p> 
+<h3 align="center">🌱 Studying 🌱</h3>
+<p align ="center"> 
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
+</p>  
 <h3 align="center">🌈  SNS 🌈</h3>
 <p align="center">
   <a href="https://www.instagram.com/gn_yu_u/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gn_yu_u/"/></a>&nbsp
