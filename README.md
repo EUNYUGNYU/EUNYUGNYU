@@ -7,6 +7,10 @@
 [![Eunyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=EUNYUGNYU&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=radical)](https://github.com/EUNYUGNYU/github-readme-stats)
 </div>
 
+<div align="center">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsdb6934)](https://solved.ac/dmsdb6934/)
+</div>
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
